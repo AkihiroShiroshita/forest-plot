@@ -1,0 +1,56 @@
+Test,Group,Method,Study,Specificity,sp_lower,sp_upper
+Yang (anecho),Gross macroscopic findings,anecho,Yang 1992,0.39,0.32,0.46
+Bugalho (anecho),Gross macroscopic findings,anecho,Bugalho 2014,0.72,0.59,0.82
+Qureshi (anechoic/simple),Gross macroscopic findings,anechoic/simple,Qureshi 2009,0.42,0.2,0.67
+Qureshi (anechoic/septa),Gross macroscopic findings,anechoic/septa,Qureshi 2009,0.58,0.33,0.8
+Faheem (encysted pleural effusion),Gross macroscopic findings,encysted pleural effusion,Faheem 2019,0.81,0.64,0.93
+Lomas (primary loculation),Gross macroscopic findings,primary loculation,Lomas 1993,0.83,0.71,0.92
+Lomas (secondary loculation),Gross macroscopic findings,secondary loculation,Lomas 1993,0.85,0.73,0.93
+Marcun (complex with septae) ,Gross macroscopic findings,complex with septae,Marcun 2009,0.61,0.42,0.78
+Marcun (complex with fibrin),Gross macroscopic findings,complex with fibrin,Marcun 2009,0.42,0.25,0.61
+Yang (complex nonsepta),Gross macroscopic findings,complex nonsepta,Yang 1992,0.87,0.82,0.91
+Yang (complex septa),Gross macroscopic findings,complex septa,Yang 1992,0.81,0.75,0.86
+Asciak (echogenicity),Gross macroscopic findings,echogenicity,Asciak 2019,0.47,0.35,0.58
+Marcun (echogenicity),Gross macroscopic findings,echogenicity,Marcun 2009,0.58,0.39,0.75
+Qureshi (echogenicity),Gross macroscopic findings,echogenicity,Qureshi 2009,1,0.82,1
+Yang (homogeneous echogenicity),Gross macroscopic findings,homogeneous echogenicity,Yang 1992,0.93,0.89,0.96
+Bugalho (homogeneous echogenicity),Gross macroscopic findings,homogeneous echogenicity,Bugalho 2014,0.57,0.44,0.69
+Bugalho (heterogeneous echogenicity),Gross macroscopic findings,heterogeneous echogenicity,Bugalho 2014,0.97,0.9,1
+Bugalho (septated echogenecity),Gross macroscopic findings,septated echogenecity,Bugalho 2014,0.97,0.9,1
+Bugalho (swirling sign),Gross macroscopic findings,swirling sign,Bugalho 2014,0.85,0.74,0.93
+Lomas (swirling sign),Gross macroscopic findings,swirling sign,Lomas 1993,0.83,0.71,0.92
+Yang (pleural thickness),Thickness,pleural thickness,Yang 1992,0.8,0.74,0.85
+Faheem (pleural thickness),Thickness,pleural thickness,Faheem 2019,0.69,0.5,0.84
+Bugalho (pleural thickness),Thickness,pleural thickness,Bugalho 2014,0.66,0.53,0.77
+Bugalho (pleural thickness > 10mm),Thickness,pleural thickness > 10mm,Bugalho 2014,0.87,0.76,0.94
+Bugalho (visceral pleural thickning > 3mm),Thickness,visceral pleural thickning > 3mm,Bugalho 2014,0.81,0.69,0.89
+Bugalho (visceral pleural thickning > 10mm),Thickness,visceral pleural thickning > 10mm,Bugalho 2014,0.9,0.8,0.96
+Qureshi (parietal pleural thickening),Thickness,parietal pleural thickening,Qureshi 2009,0.74,0.49,0.91
+Bugalho (parietal pleural thickning > 3mm),Thickness,parietal  pleural thickning > 3mm,Bugalho 2014,0.85,0.74,0.93
+Qureshi (parietal pleural thickening <= 10mm),Thickness,parietal pleural thickening <= 10mm,Qureshi 2009,0.79,0.54,0.94
+Qureshi (parietal pleural thickening > 10mm),Thickness,parietal pleural thickening > 10mm,Qureshi 2009,0.95,0.74,1
+Bugalho (parietal pleural thickning > 10mm),Thickness,parietal pleural thickning > 10mm,Bugalho 2014,0.97,0.9,1
+Qureshi (diaphragmatic thickening),Thickness,diaphragmatic thickening,Qureshi 2009,0.79,0.54,0.94
+Bugalho (diaphragmatic thickning > 7mm),Thickness,diaphragmatic thickening > 7mm,Bugalho 2014,0.79,0.67,0.88
+Bugalho (diaphragmatic thickning > 10mm),Thickness,diaphragmatic thickening > 10mm,Bugalho 2014,0.97,0.9,1
+Qureshi (nodular diaphragmatic thickening),Thickness,nodular diaphragmatic thickening,Qureshi 2009,1,0.82,1
+Qureshi (smooth diaphragmatic thickening),Thickness,smooth diaphragmatic thickening,Qureshi 2009,0.79,0.54,0.94
+Bugalho (total nodularity),Nodularity,total nodularity,Bugalho 2014,0.91,0.82,0.97
+Yang (pleural nodularity),Nodularity,pleural nodularity,Yang 1992,1,0.98,1
+Faheem (pleural nodularity),Nodularity,pleural nodularity,Faheem 2019,0.97,0.84,1
+Bugalho (parietal pleural nodularity),Nodularity,parietal pleural nodularity,Bugalho 2014,0.97,0.9,1
+Bugalho (visceral pleural nodularity),Nodularity,visceral pleural nodularity,Bugalho 2014,0.93,0.83,0.98
+Qureshi (visceral pleural thickening/nodularity),Nodularity,visceral pleural thickening/nodularity,Qureshi 2009,1,0.82,1
+Qureshi (nodular parietal pleural),Nodularity,nodular parietal pleural,Qureshi 2009,1,0.82,1
+Qureshi (smooth parietal pleural),Nodularity,smooth parietal pleural,Qureshi 2009,0.79,0.54,0.94
+Bugalho (diaphragmatic nodularity),Nodularity,diaphragmatic nodularity,Bugalho 2014,0.94,0.85,0.98
+Qureshi (diaphragmatic nodularity),Nodularity,diaphragmatic nodularity,Qureshi 2009,1,0.82,1
+Bugalho (lung air bronchogram sign),Other findings,lung air bronchogram sign,Bugalho 2014,0.69,0.56,0.79
+Yang (parenchymal lesion),Other findings,parenchymal lesion,Yang 1992,0.82,0.76,0.87
+Bugalho (peripheral parenchymal lung lesion),Other findings,peripheral parenchymal lung lesion,Bugalho 2014,1,0.95,1
+Bugalho (chest wall invasion),Other findings,chest wall invasion,Bugalho 2014,1,0.95,1
+Bugalho (hepatic metastases),Other findings,hepatic metastases,Bugalho 2014,1,0.95,1
+Qureshi (hepatic metastases),Other findings,hepatic metastases,Qureshi 2009,1,0.82,1
+Lomas (flap),Other findings,flap,Lomas 1993,0.22,0.12,0.35
+Lomas (consolidation),Other findings,consolidation,Lomas 1993,0.47,0.34,0.61
+Lomas (collapse),Other findings,collapse,Lomas 1993,0.97,0.88,1
